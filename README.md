@@ -1,5 +1,8 @@
 # Dashboard de Vendas — Excel
 
+<img width="1607" height="1250" alt="Dashboard" src="https://github.com/user-attachments/assets/f417811e-ba24-4b2e-88a0-16de6e208d38" />
+
+
 Projeto de aprendizagem desenvolvido com orientação passo a passo, utilizando dados fictícios para analisar vendas, metas e desempenho comercial.
 
 ## Objetivo
