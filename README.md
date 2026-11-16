@@ -31,6 +31,12 @@ Apresentar indicadores de vendas em um painel com filtro mensal, permitindo comp
 
 Microsoft Excel, tabelas estruturadas, SOMASES, CONT.SES, SE, SEERRO, CORRESP, funções de data, validação de dados, formatação condicional e gráficos.
 
+## Arquivos do projeto
+
+- [Baixar planilha Excel](Dashboard_Vendas_Portfolio.xlsx)
+- [Visualizar dashboard em PDF](Dashboard_Vendas_Portifolio.pdf)
+- [Ver imagem do painel](Dashboard.png)
+
 ## Como utilizar
 
 Baixe o arquivo Excel e abra a aba Dashboard. Na célula G2, escolha Todos, Janeiro, Fevereiro ou Março.
